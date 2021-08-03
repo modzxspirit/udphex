@@ -1,4 +1,4 @@
-package udphex
+package main
 
 import (
 	"fmt"
